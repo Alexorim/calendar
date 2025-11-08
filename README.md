@@ -15,7 +15,7 @@
 ###### 👇 Si tiene dudas 
 #### 💚 *CONTACTO #1* 
 [![blog](https://img.shields.io/badge/Gata_Dios-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://api.whatsapp.com/send?phone=14509777159&text=¡Hola!%20Gata%20Dios%20😸%20vengo%20de%20GitHub) 
+)](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_ED-1-Dq7ZyJvqgeyZOsPGvdVeuVC0L2SfrUygvI-H79uvC137Bh6Ku7IaaYfrf9zCSrJAYRE9cdG/pubhtml?gid=0&single=true) 
   
 #### 💚 *CONTACTO #2*  
 [![blog](https://img.shields.io/badge/Gata_Dios-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
